@@ -1,0 +1,18 @@
+/private/preboot/635907C9E8792F37AFA782D8F89181A05FF23CDB5CA5FA8ACD6D867C1320E61388D8F66F946ECF6D60F5C93AEB56E8BF/dopamine-jk9mZ8/procursus/var/mobile/theos/14/.theos/obj/arm64/IMGUI/imgui_draw.cpp.827ffe11.o: \
+  IMGUI/imgui_draw.cpp /var/jb/var/mobile/theos/Prefix.pch IMGUI/imgui.h \
+  IMGUI/imconfig.h IMGUI/imgui_internal.h IMGUI/imstb_textedit.h \
+  IMGUI/imstb_rectpack.h IMGUI/imstb_truetype.h
+
+/var/jb/var/mobile/theos/Prefix.pch:
+
+IMGUI/imgui.h:
+
+IMGUI/imconfig.h:
+
+IMGUI/imgui_internal.h:
+
+IMGUI/imstb_textedit.h:
+
+IMGUI/imstb_rectpack.h:
+
+IMGUI/imstb_truetype.h:

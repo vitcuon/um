@@ -1,0 +1,8 @@
+Package: com.shinaov.paid.kgvn
+Name: MENU AOV
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: MENU AOV
+Maintainer: Shin AOV
+Author: 1026
