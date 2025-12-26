@@ -1,4 +1,4 @@
-export THEOS = /home/nqn/theos
+export THEOS = /workspaces/um/1/theos
 ARCHS = arm64
 DEBUG = 0
 FINALPACKAGE = 1
